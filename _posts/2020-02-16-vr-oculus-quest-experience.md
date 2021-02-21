@@ -12,6 +12,10 @@ The Quest 2 runs essentially on Android for its primary untethered mode, for whi
 
 Watching 2D movies in VR is a lot more immersive than a flat screen. I watched a David Attenborough series called *Our Planet*, and the ocean scenes were palpable with edge-to-edge viewing and no peripheral distractions. Still, I found myself not watching films on the head-set, because extended use is uncomfortable.
 
-We have all witnessed the ubiqituous adoption of mobile apps in virtually all spheres. Will VR turn out the same? The question is easier to answer in sectors such as fashion retailing, but harder in others: like banking, classifieds, or news feeds. What seems inevitable though, is that VR will bring giant waves of progress in human computer interaction.
+We have all witnessed the ubiqituous adoption of mobile apps in virtually all spheres. Will VR turn out the same? The question is easier to answer in sectors such as fashion retailing, but harder in others: like banking, classifieds, or news feeds. I looked up applications of VR in banking, and found this link: 
+https://arpost.co/2020/04/22/benefits-virtual-reality-banking/
+If banking can benefit from VR, it would seem that every industry could be affected in some way.
+
+What seems inevitable though, is that VR will bring giant waves of progress in human computer interaction.
 
 Apple's alleged upcoming move into VR is exciting. With Apple silicon, and their wonderful display pedigree, they are sure to make a dent in the virtual universe. 
