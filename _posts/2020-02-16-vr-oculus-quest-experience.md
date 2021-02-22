@@ -12,6 +12,8 @@ The Quest 2 runs essentially on Android for its primary untethered mode, for whi
 
 Watching 2D movies in VR is a lot more immersive than a flat screen. I watched a David Attenborough series called *Our Planet*, and the ocean scenes were palpable with edge-to-edge viewing and no peripheral distractions. Still, I found myself not watching films on the head-set, because extended use is uncomfortable.
 
+*Walkabout mini golf VR* is the most enjoyable golf game I've played on a computer. It is a superb family game, especially for members spread around the world. As a golfer, I envision using this game to improve my putting in real life, partly for grooving the motion, and partly for mental-conditioning over competitive putts.
+
 We have all witnessed the ubiqituous adoption of mobile apps in virtually all spheres. Will VR turn out the same? The question is easier to answer in sectors such as fashion retailing, but harder in others: like banking, classifieds, or news feeds. I looked up applications of VR in banking, and found this link: 
 https://arpost.co/2020/04/22/benefits-virtual-reality-banking/
 If banking can benefit from VR, it would seem that every industry could be affected in some way.
