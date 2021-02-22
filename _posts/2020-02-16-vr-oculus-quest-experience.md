@@ -18,6 +18,8 @@ We have all witnessed the ubiqituous adoption of mobile apps in virtually all sp
 https://arpost.co/2020/04/22/benefits-virtual-reality-banking/
 If banking can benefit from VR, it would seem that every industry could be affected in some way.
 
-What seems inevitable though, is that VR will bring giant waves of progress in human computer interaction.
+What seems inevitable though, is that VR will bring giant waves of progress in human computer interaction. I generally get bored of computer games quickly, unlike real life-sports which can get me hooked. VR games keep me coming back for more, as it involves the senses and the body, and has a high credibility factor.  
+
+The cost of the games and head-set is very cheap for what you get. The games are so compelling that an annual subscription model to your favourite games would work. well.
 
 Apple's alleged upcoming move into VR is exciting. With Apple silicon, and their wonderful display pedigree, they are sure to make a dent in the virtual universe. 
