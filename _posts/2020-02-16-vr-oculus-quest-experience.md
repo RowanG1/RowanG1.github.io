@@ -1,8 +1,8 @@
-The Oculus Quest 2 was an exciting buy, as it reminded me of the original iPhone: a form factor fit for prime time. What makes it compelling is that the user can move around untethered, running apps with ample processing power and decent battery life.
+The Oculus Quest 2 reveal a few months ago reminded me of the original iPhone: a form factor fit for prime time. What makes it compelling is that the user can move around untethered, running apps with ample processing power and decent battery life. I got one two weeks back, and the experience is worth sharing.
 
-I had prior experience with VR, having re-built a cross-platform video streaming app called Anzac360. The Unity-based project was fun to create, and exposure to the Rift and Oculus Go was eye-opening. 
+I had prior exposure to VR, having re-built a cross-platform video streaming app called Anzac360. The Unity-based project was fun to create, and running on the Rift and Oculus Go was eye-opening. 
 
-The initial hours of playing with Quest 2 was one of the most impactful moments in my gadget life. The *Epic roller coasters* app was first up on the list, and playing it in shooter mode with a controller in each hand was novel (a generation of ambidextrous children is coming). This motion-packed game is slightly nauseating, but still tolerable and the whirls felt better over time.  Next up was a fishing simulator called *Bait*, which gave a solid intro to the training potential of VR. It was a little frustrating to get the knack of the controls, but appealing enough to hold my attention, and the low fish take reminded me of real waters. Next up was a boxing game called *Thrill of the fight*. This is an intimdating game- the opponent is ripped, big, and sees every opportunity to break your defences (AI strikes again). The game is exhausting, and good for fitness or a work break.
+The initial hours of playing with Quest 2 was one of the most impactful moments in my gadget life. The *Epic roller coasters* app was first up on the list, and playing it in shooter mode with a controller in each hand was novel (a generation of ambidextrous children is coming). This mind-churning game is slightly nauseating, but still tolerable and the runs felt better over time.  Next up was a fishing simulator called *Bait*, which gave a solid intro to the training potential of VR. It was a little frustrating to get the knack of the controls, but appealing enough to hold my attention, and the low fish take reminded me of real waters. Next up was a boxing game called *Thrill of the fight*. This is an intimdating game- the opponent is hulking, and sees every opportunity to break your defences (AI strikes again). The game is exhausting, and good for fitness or a break from sitting.
 
 At this point, I really appreciated the extra features built into Quest 2 for user orientation in the physical environment: including the front facing grayscale cameras to see the room when switching the device on, as well as a virtual clone of the hand controllers to help find the real sticks when not in hand. A guardian boundary demarcated by the user helps you to stay clear of surrounding objects.
 
@@ -14,9 +14,13 @@ Watching 2D movies in VR is a lot more immersive than a flat screen. I watched a
 
 *Walkabout mini golf VR* is the most enjoyable golf game I've played on a computer. It is a superb family game, especially for members spread around the world. As a golfer, I envision using this game to improve my putting in real life, partly for grooving the motion, and partly for mental-conditioning over putts that count.
 
-Oculus has a distribution channel called App Lab, intended for release of experimental apps that don't require Oculus store approval. I downloaded one app called *Puzzling Places- Beta*, which is a 3-D version of a jigsaw puzzle. The challenge of matching colour patterns, as well as orientating the pieces in space was relaxing, and fun, and a pleasant art experience. Admittedly, I was a bit disappointed that "share on facebook" buttons were not evident upon puzzle completion.
+Oculus has a distribution channel called App Lab, intended for release of experimental apps that don't require Oculus store approval. I downloaded one app called *Puzzling Places- Beta*, which is a 3-D version of a jigsaw puzzle. The challenge of matching colour patterns, as well as orientating the pieces in space was relaxing, entertaining, and a pleasant art experience. Admittedly, I was a bit disappointed that "share on facebook" buttons were not evident upon puzzle completion.
 
-The lack of device-wide notifications is partly why the Oculus experience takes you into another dimension. There are in-app notifications, but they tend to be minimal. One senses that the VR future will bring notification over-load similar to mobile devices.
+Artists produce some great works in VR. One interesting clip on Youtube VR is a 3-D rendition of Van Gogh's *Starry night*. The peculiar music and abstract sky lumps combined with the drifing pan through the city amplifies the original eeriness, and the swirling of the clouds is mesmerizing. Another popular clip on Youtube is *Dreams of Dali*, which plays on extremes of scale such as slender giants-  perfect for VR's depth perception. 
+
+If you have a creative streak, here is an article dedicated to sketching and sculpting in VR: https://www.gravitysketch.com/blog/articles/the-best-art-and-design-apps-on-oculus-quest-2/
+
+The lack of device-wide notifications is partly why the Oculus takes you into another dimension. There are in-app notifications, but they tend to be minimal. One senses that the VR future will bring notification over-load similar to mobile devices.
 
 One thing I did not expect is that once the user has logged in to a head-set, there is no default security pin to use the device after a period of inactivity. This look set to change with upcoming multi-user support.
 
@@ -24,7 +28,7 @@ We have all witnessed the ubiqituous adoption of mobile apps in virtually all sp
 https://arpost.co/2020/04/22/benefits-virtual-reality-banking/
 If banking can benefit from VR, it would seem that every industry could be affected in some way. 
 
-VR is surely set to bring giant waves of progress in human computer interaction. I generally get bored of computer games quickly, unlike real life-sports which can get me hooked. VR games keep me coming back for more, as it involves the senses and the body, and has a high credibility factor.  
+VR is surely set to bring giant waves of progress in human computer interaction. I generally get bored of computer games quickly, unlike real life-sports which can get me hooked. VR games keep me coming back for more, as it involves the senses and the body, and has credibility.  
 
 The cost of the games and head-set is inexpensive for what you get. The games are so compelling that an annual subscription to certain games would be a successful business model. With PC and mobile games, I cannot ever recall a time where I bought additional content for a game I bought; this changed with the Oculus, when I unlocked additional tracks for the roller-coaster app.
 
