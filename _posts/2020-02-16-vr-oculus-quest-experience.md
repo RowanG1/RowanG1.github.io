@@ -20,16 +20,20 @@ Artists produce some great works in VR. One interesting clip on Youtube VR is a 
 
 If you have a creative streak, here is an article dedicated to sketching and sculpting in VR: https://www.gravitysketch.com/blog/articles/the-best-art-and-design-apps-on-oculus-quest-2/
 
+Travel videos are a wonderful application of VR. One of the places in NYC I did not manage to visit, was the Rockefeller centre. A short video of NYC on Oculus TV brought it to my living room, in the right season of Winter when the outdoor ice-rink is running. Central Park and the Met were two of the favorite spots while there in person, and the VR scenes brought back fond memories. Another near miss on my travels was the colloseum in Rome.  A VR clip of Rome placed me inside the Colloseum with commanding, clear views on a Sunny day.
+
 The lack of device-wide notifications is partly why the Oculus takes you into another dimension. There are in-app notifications, but they tend to be minimal. One senses that the VR future will bring notification over-load similar to mobile devices.
 
 One thing I did not expect is that once the user has logged in to a head-set, there is no default security pin to use the device after a period of inactivity. This look set to change with upcoming multi-user support.
 
+Although many of the apps were somewhat inelegant in terms of menu control design, the core experience was nailed in almost every case. It might be a direct result of physics engines, the nature of the activity, and attention paid to appealing 3-D scenery.
+
 We have all witnessed the ubiqituous adoption of mobile apps in virtually all spheres. Will VR turn out the same? The question is easier to answer in sectors such as fashion retailing, but harder in others: like banking, classifieds, or news feeds. I looked up applications of VR in banking, and found this link: 
 https://arpost.co/2020/04/22/benefits-virtual-reality-banking/
-If banking can benefit from VR, it would seem that every industry could be affected in some way. 
+If banking can benefit from VR, it would seem that every industry could benefit in some way. 
 
-VR is surely set to bring giant waves of progress in human computer interaction. I generally get bored of computer games quickly, unlike real life-sports which can get me hooked. VR games keep me coming back for more, as it involves the senses and the body, and has credibility.  
+VR is surely set to bring giant waves of progress in human computer interaction. I generally get bored of computer games quickly, unlike real life-sports which can get me hooked. VR games keep me coming back for more, as it involves the senses and the body, and feels credibile.  
 
-The cost of the games and head-set is inexpensive for what you get. The games are so compelling that an annual subscription to certain games would be a successful business model. With PC and mobile games, I cannot ever recall a time where I bought additional content for a game I bought; this changed with the Oculus, when I unlocked additional tracks for the roller-coaster app.
+The cost of the games and head-set is unbelievable for what you get. The games are so compelling that an annual subscription to certain games might be a successful business model. With PC and mobile games, I cannot ever recall a time where I bought additional content for a game; this changed with the Oculus, when I unlocked additional tracks for the roller-coaster app.
 
 Apple's alleged upcoming move into VR is exciting. With Apple silicon, and their wonderful display pedigree, they are sure to make a dent in the virtual universe. 
