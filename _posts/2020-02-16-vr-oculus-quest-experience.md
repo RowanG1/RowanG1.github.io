@@ -38,20 +38,22 @@ Travel videos are a wonderful application of VR. One of the places in NYC I did 
 
 The lack of device-wide notifications is partly why the Oculus takes you into another dimension. There are in-app notifications, but they tend to be minimal. One senses that the VR future will bring notification over-load similar to mobile devices.
 
+One thing I did not expect is that once the user has logged in to a head-set, there is no default security pin to use the device after a period of inactivity. This look set to change with upcoming multi-user support.
+
 *Superhot VR* is a popular shooter game, with an unusual feature: time only proceeds if the player moves. If you stop moving, the game freezes. The player is placed in situations where there is at least one opponent, and the goal is to make the first hit- whether by fist, bullet, or throwing some nearby object. It proceeds in episodes, where each episode is made up of a sequence of scenes, and all scenes needs to be conquered in one go to proceed to the next episode. Often, one fails near the end of the scene, and then you need to restart the episode. Maybe more experienced shooter players would advance through the levels more easily than I did. The game felt hard. Maybe I did not take advantage of being able to freeze the game. What I enjoyed about this simply designed game is that the focus is on game-play, in a world of polished graphics. The game could be more intense by using expressive body and facial gestures. Still, I bumped furniture, and external footage of my game-play would show a deranged man.
 
 ![alt text](https://github.com/RowanG1/RowanG1.github.io/blob/master/images/superhot-vr-1.jpg?raw=true)
 
-One thing I did not expect is that once the user has logged in to a head-set, there is no default security pin to use the device after a period of inactivity. This look set to change with upcoming multi-user support.
+What I really appreciated about the Oculus store, is the quality of reviews: it seems to be a community of constructive people, who provide useful feedback to developers and fellow users. A common request is multi-player support.
 
-Although many of the apps were somewhat inelegant in terms of menu control design, the core experience was nailed in almost every case. It might be a direct result of physics engines, the nature of the activity, and attention paid to appealing 3-D scenery.
+The cost of the games and head-set is unbelievable for what you get. The games are so compelling that an annual subscription to certain games might be a successful business model. With PC and mobile games, I cannot ever recall a time where I bought additional content for a game; this changed with the Oculus, when I unlocked additional tracks for the roller-coaster app.
+
+Although some of the apps were inelegant in terms of menu control design, the core experience was nailed in almost every case. It might be a direct result of physics engines, the nature of the activity, and attention paid to appealing 3-D scenery.
 
 We have all witnessed the ubiqituous adoption of mobile apps in virtually all spheres. Will VR turn out the same? The question is easier to answer in sectors such as fashion retailing, but harder in others: like banking, classifieds, or news feeds. I looked up applications of VR in banking, and found this link: 
 https://arpost.co/2020/04/22/benefits-virtual-reality-banking/
 If banking can benefit from VR, it would seem that every industry could benefit in some way. 
 
 VR is surely set to bring giant waves of progress in human computer interaction. I generally get bored of computer games quickly, unlike real life-sports which can get me hooked. VR games keep me coming back for more, as it involves the senses and the body, and feels credibile.  
-
-The cost of the games and head-set is unbelievable for what you get. The games are so compelling that an annual subscription to certain games might be a successful business model. With PC and mobile games, I cannot ever recall a time where I bought additional content for a game; this changed with the Oculus, when I unlocked additional tracks for the roller-coaster app.
 
 Apple's alleged upcoming move into VR is exciting. With Apple silicon, and their wonderful display pedigree, they are sure to make a dent in the virtual universe. 
