@@ -6,7 +6,7 @@ The initial hours of playing with Quest 2 was one of the most impactful moments 
 
 ![alt text](https://github.com/RowanG1/RowanG1.github.io/blob/master/images/roll-coaster-1.jpg?raw=true)
 
-Next up was a fishing simulator called *Bait*, which could be a training device for newcomers to fishing. The graphics are intermediate complexity, with subtle changes in the environment such as flapping sea-gulls, and gently moving waters. The challenges were well-paced, and tied with relatable stories by way of interactions with virtual people. It was a little frustrating to get the knack of the controls, but appealing enough to hold my attention, and the initial low fish catch reminded me of harbour fishing as a child. In time, the casting, hooking, and reeling in became a breeze: if I did play the game in future, the appeal would be the sense of relaxation rather than the art of catching fish. 
+Next up was a fishing game called *Bait*, which also seemed like a semi-simulator. The graphics are intermediate complexity, with subtle changes in the environment during play such as flapping sea-gulls, and gently moving waters. The challenges were well-paced, and tied with relatable stories by way of interactions with virtual people. It was a little tricky to get the knack of the controls, and the initial low fish catch reminded me of harbour fishing as a child. In time the casting, hooking, and reeling in became a breeze. If I did play the game in future, the appeal would be the sense of relaxation rather than the mechanics of catching fish.  But if Uber Eats delivered fish and chips after nailing a challenge, I'd cast away!
 
 ![alt text](https://github.com/RowanG1/RowanG1.github.io/blob/master/images/bait-1.jpg?raw=true)
 
