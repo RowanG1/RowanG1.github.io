@@ -2,7 +2,7 @@ The Oculus Quest 2 reveal a few months ago reminded me of the original iPhone: a
 
 I had prior exposure to VR, having re-built a cross-platform video streaming app called Anzac360. The Unity-based project was fun to create, and running on the Rift and Oculus Go was eye-opening. 
 
-The initial hours of playing with Quest 2 was one of the most impactful moments in my gadget life. The *Epic roller coasters* app was first up on the list, and playing it in shooter mode with a controller in each hand was novel (a generation of ambidextrous children is coming). This mind-churning game is slightly nauseating, but still tolerable and the runs felt better over time.  The big concern for me at the beginning was that I might fall over in a dizzy spell, but fortunately I stayed on my (spread) feet. The game offers a good mix of shooting challenges in different situations, some of which are wild and impossible. 
+The initial hours of playing with Quest 2 was one of the most impactful moments in my gadget life. The *Epic roller coasters* app was first up on the list, and playing it in shooter mode with a controller in each hand was novel (a generation of ambidextrous children is coming). This mind-churning game is slightly nauseating, but still tolerable and the runs felt better over time.  The big concern for me at the beginning was that I might fall over in a dizzy spell, but fortunately I stayed on my (spread apart) feet. The game offers a good mix of shooting challenges in different situations, some of which are wild and impossible. A late discovery was how much fun the race mode is- the game turns into scalextric with a cock-pit view. I really enjoyed the challenge of pushing the limits, and flew off the circuit numerous times. The sound and visuals make it wonderfully realistic. All round, I admire the creativity of the game-makers who made the best of the roller-coaster idea: it is almost a theme park.
 
 ![alt text](https://github.com/RowanG1/RowanG1.github.io/blob/master/images/roll-coaster-1.jpg?raw=true)
 
@@ -40,7 +40,7 @@ One thing I did not expect is that once the user has logged in to a head-set, th
 
 I struggle with eye-strain from excessive screen-time. Playing basketball in real life gives relief and eye-training, but VR seems to help. Apparently VR head-sets have a fixed focus distance, so maybe that distance is different from a laptop or smartphone and thus beneficial. It could also be that the VR objects are easier on the eyes than text; whichever, it feels good for me.
 
-*Superhot VR* is a popular shooter game, with an unusual feature: time only proceeds if the player moves. If you stop moving, the game freezes. The player is placed in situations where there is at least one opponent, and the goal is to make the first hit- whether by fist, bullet, or throwing some nearby object. It proceeds in episodes, where each episode is made up of a sequence of scenes, and all scenes needs to be conquered in one go to proceed to the next episode. Often, one fails near the end of the scene, and then you need to restart the episode. Maybe more experienced shooter players would advance through the levels more easily than I did. The game felt hard. Maybe I did not take advantage of being able to freeze the game. What I enjoyed about this simply designed game is that the focus is on game-play, in a world of polished graphics. The game could be more intense by using expressive body and facial gestures. Still, I bumped into furniture, and footage of my game-play would show a deranged man.
+*Superhot VR* is a popular shooter game, with an unusual feature: time only proceeds if the player moves. If you stop moving, the game freezes. The player is placed in situations where there is at least one opponent, and the goal is to make the first hit- whether by fist, bullet, or throwing some nearby object. It proceeds in episodes, where each episode is made up of a sequence of scenes, and all scenes needs to be conquered in one go to proceed to the next episode. Often, one fails near the end of the scene, and then you need to restart the episode. Maybe more experienced shooter players would advance through the levels more easily than I did. The game felt hard. Maybe I did not take advantage of being able to freeze the game. What I enjoyed about this simply designed game is that the focus is on game-play, in a world of polished graphics. The game could be more intense by using expressive body and facial gestures. Still, I bumped into furniture, and footage of my game-play would show a possessed man.
 
 ![alt text](https://github.com/RowanG1/RowanG1.github.io/blob/master/images/superhot-vr-1.jpg?raw=true)
 
@@ -50,10 +50,12 @@ The cost of the games and head-set is unbelievable for what you get. The games a
 
 What I really appreciated about the Oculus store, is the quality of reviews: it seems to be a community of constructive people, who provide useful feedback to developers and fellow users. A common request is multi-player support.
 
-We have all witnessed the ubiqituous adoption of mobile apps in virtually all spheres. Will VR turn out the same? The question is easier to answer in sectors such as fashion retailing, but harder in others: like banking, classifieds, or news feeds. I looked up applications of VR in banking, and found this link: 
+We have all witnessed the ubiqituous adoption of mobile apps in virtually all spheres. Will VR turn out the same? The question is easier to answer in sectors such as fashion retailing, but harder in others: like banking, classifieds, or news feeds. I looked up applications of VR in banking, and found that a bank in Italy called Widiba had rolled out a virtual retail bank, where customers can move about, interact with agents and do transactions. If banking can benefit from VR, it would seem that every industry could also in some way. 
+
+VR is surely set to bring giant waves of progress in human computer interaction. I generally get bored of computer games quickly, unlike real life-sports which can get me hooked. VR games keep me coming back for more, as it involves the senses and the body, and feels credibile.
+
+With the upcoming Oculus Quest 3, Apple's alleged move into VR with a premium 8K head-set, and many other industry participants, the near future of VR is exciting.
+
+-------------------
+References:
 https://arpost.co/2020/04/22/benefits-virtual-reality-banking/
-If banking can benefit from VR, it would seem that every industry could benefit in some way. 
-
-VR is surely set to bring giant waves of progress in human computer interaction. I generally get bored of computer games quickly, unlike real life-sports which can get me hooked. VR games keep me coming back for more, as it involves the senses and the body, and feels credibile.  
-
-Apple's alleged upcoming move into VR is exciting. With Apple silicon, and their wonderful display pedigree, they are sure to make a dent in the virtual universe. 
