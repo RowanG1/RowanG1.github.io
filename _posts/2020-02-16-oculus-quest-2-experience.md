@@ -59,5 +59,5 @@ VR is surely set to bring giant waves of progress in human computer interaction.
 With the upcoming Oculus Quest 3, as well as Apple's alleged move into VR with a premium 8K head-set, and a rich VR eco-system emerging, the near future of VR is exciting.
 
 -------------------
-References:
+References
 [^1]: https://arpost.co/2020/04/22/benefits-virtual-reality-banking/
