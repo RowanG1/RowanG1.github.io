@@ -32,7 +32,7 @@ The lack of device-wide notifications is partly why the Oculus takes you into an
 
 ![alt text](https://github.com/RowanG1/RowanG1.github.io/blob/master/images/mini-golf-1.jpg?raw=true)
 
-Oculus has a distribution channel called App Lab, intended for release of experimental apps that don't require Oculus store approval. I downloaded one app called *Puzzling Places- Beta*, which is a 3-D version of a jigsaw puzzle. The challenge of matching colour patterns, as well as orientating the pieces in space was relaxing, entertaining, and a pleasant art experience. Admittedly, I was a bit disappointed that "share on facebook" buttons were not evident upon puzzle completion.
+Oculus has a distribution channel called App Lab, intended for release of experimental apps that don't require Oculus store approval. I downloaded one app called *Puzzling Places- Beta*, which is a 3-D version of a jigsaw puzzle. The challenge of matching colour patterns, as well as orientating the pieces in space was relaxing, entertaining, and a pleasant art experience.
 
 Artists produce some great works in VR. One interesting clip on Youtube VR is a 3-D rendition of Van Gogh's *Starry night*. The peculiar music and abstract sky lumps combined with the drifing pan through the city amplifies the original eeriness, and the swirling of the clouds is mesmerizing. Another popular clip on Youtube is *Dreams of Dali*, which plays on extremes of scale such as slender giants-  perfect for VR's depth perception. 
 
