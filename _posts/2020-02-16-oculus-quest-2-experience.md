@@ -62,5 +62,3 @@ With the upcoming Oculus Quest 3, as well as Apple's alleged move into VR with a
 References
 
 [^1]: https://arpost.co/2020/04/22/benefits-virtual-reality-banking/
-
-Then.
