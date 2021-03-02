@@ -1,4 +1,4 @@
 # About
 
-Notes on observations.
+General notes.
 
