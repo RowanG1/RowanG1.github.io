@@ -36,7 +36,7 @@ Oculus has a distribution channel called App Lab, intended for release of experi
 
 Artists produce some great works in VR. One interesting clip on Youtube VR is a 3-D rendition of Van Gogh's *Starry night*. The peculiar music and abstract sky lumps combined with the drifting pan through the city amplifies the original eeriness, and the swirling of the clouds is mesmerizing. Another popular clip on Youtube is *Dreams of Dali*, which plays on extremes of scale such as slender giants-  perfect for VR's depth perception. 
 
-Co-creation tools are promising in VR: an app called Sculptr enables users to sculpt 3-D spaces as a team. The potential for such tools in home design or animated movie production seems immense.
+Co-creation tools are promising in VR: an app called SculptrVR enables users to sculpt 3-D spaces as a team. The potential for such tools in home design or animated movie production seems immense.
 
 Travel videos are a wonderful application for VR. One of the places in NYC that I did not manage to visit, was the Rockefeller centre. A short video of NYC on Oculus TV brought it to my living room, in the right season of Winter when the outdoor ice-rink is operating. Central Park and the Met were two of the favorite spots while there in person, and the VR scenes brought back fond memories. Another near miss on my travels was the Colosseum in Rome.  A VR clip of Rome placed me inside the Colosseum with commanding, clear views on a Sunny day.
 
