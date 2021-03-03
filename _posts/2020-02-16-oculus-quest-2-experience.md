@@ -48,7 +48,7 @@ Although some of the apps were inelegant in terms of menu control design, the co
 
 The cost of the games and head-set is unbelievable for what you get. The games are so compelling that an annual subscription to certain games might be a successful business model. With PC and mobile games, I cannot ever recall a time where I bought additional content for a game; this changed with the Oculus, when I unlocked additional tracks for the roller-coaster app.
 
-What I really appreciated about the Oculus store, is the quality of reviews: it seems to be a community of constructive people, who help developers to create better games and inform users to make better choices. A common request is multiplayer support.
+What I really appreciated about the Oculus store, is the quality of reviews: it seems to be a community of constructive people, who help developers to create better games and who inform users to make better choices. A common request is multiplayer support.
 
 The Oculus mobile app, which is initially used to set up the headset via your smartphone, is outstanding at helping users to discover content. The lessons learned from the facebook newsfeed, and streaming apps like Netflix, have been applied to this app superbly. The presentation feels dynamic, contextual and interesting. You find yourself previewing an app in an unusual category like "most loved", then later watching a Youtube review of it in the app, then reading a blog about a music concert in VR. The app is not flawless- like the search bar that overlaps the status bar which makes it hard to activate, but it is well-designed overall.
 
