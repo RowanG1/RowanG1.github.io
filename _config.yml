@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Rowan's blog
+title: Notes: Rowan Gontier
 description:  Various topics
 github_username: RowanG1
 
 # Email and twitter are optional:
 email: rgontier@gmail.com
-twitter_username:
+twitter_username: GontierRowan
 
 # Set this to true to get LaTeX math equation support
 use_math:
